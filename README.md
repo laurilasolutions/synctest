@@ -1,2 +1,0 @@
-# synctest
-sync test
